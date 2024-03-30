@@ -1,8 +1,14 @@
-﻿//Written for Sprite Fantasia. https://store.steampowered.com/app/1619220
+﻿//Written for games by X-Legend.
+//Sprite Fantasia. https://store.steampowered.com/app/1619220/
+//Eden Eternal-聖境伝説 https://store.steampowered.com/app/2229260/
+//Aura Kingdom 2 https://store.steampowered.com/app/1258870/
+//ASTRAL TALE-星界神話 https://store.steampowered.com/app/2591210/
+//Laplace：拉普拉斯的神子 https://store.steampowered.com/app/819790/
+
 using System.IO;
 using System.IO.Compression;
 
-namespace Sprite_Fantasia_Extractor
+namespace X_Legend_Extractor
 {
     class Program
     {
